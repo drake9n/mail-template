@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="823" viewBox="0 0 1920 823">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1939" data-name="Rectangle 1939" width="1920" height="823" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#121238"/>
+      <stop offset="1" stop-color="#171744"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#121238"/>
+      <stop offset="1" stop-color="#1c1c50"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_11" data-name="Mask Group 11" clip-path="url(#clip-path)">
+    <g id="BGbanner">
+      <path id="Path_10251" data-name="Path 10251" d="M4055,714.021s970.33,244.08,1919.3,0c7.394,4.591,0-717.725,0-717.725H4055Z" transform="translate(-4055)" fill="#1d1e2f"/>
+      <path id="Path_10246" data-name="Path 10246" d="M4055,714.021s970.33,244.08,1919.3,0c7.394,4.591,0-717.725,0-717.725H4055Z" transform="translate(-4055)" fill="#121238"/>
+      <path id="Path_10242" data-name="Path 10242" d="M5005.347-20.808s-248.5,73.109-182.039,284.224S4693.837,595.253,4458.725,530.8s-354.971-14.946-417.239,143.454c1.305,1.77-9.553-695.062-9.553-695.062Z" transform="translate(-4055)" opacity="0.724" fill="url(#linear-gradient)"/>
+      <path id="Path_10243" data-name="Path 10243" d="M4724.739-20.808S4547.872,34.95,4595.177,195.96s-92.148,253.08-259.484,203.924-252.643-11.4-296.96,109.407c.929,1.35-6.8-530.1-6.8-530.1Z" transform="translate(-4055)" opacity="0.724" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_182" data-name="Ellipse 182" cx="18.816" cy="18.816" rx="18.816" ry="18.816" transform="translate(810.427 506.322)" fill="#762e98" opacity="0.2"/>
+      <path id="Path_10245" data-name="Path 10245" d="M1423.253,461.706h-8.243l-4.122,7.139,4.122,7.139h8.243l4.122-7.139Z" transform="translate(-528.591 -20.721)" fill="none" stroke="#f0803a" stroke-miterlimit="10" stroke-width="2" opacity="0.2"/>
+    </g>
+  </g>
+</svg>
